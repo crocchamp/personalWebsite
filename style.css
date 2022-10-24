@@ -375,14 +375,24 @@ header{
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10px;
+    border-bottom: 2px solid bisque;
 }
 
 .headerNameTitle{
     display: flex;
-    align-content: space-evenly;
+    
 }
 
 .headerLinks{
     display: flex;
-    align-content: space-evenly;
+    
+}
+
+.headerTitle{
+    margin-left: 50px;
+}
+
+a{
+    color: bisque;
+    text-decoration: none;
 }
