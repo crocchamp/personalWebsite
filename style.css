@@ -19,7 +19,7 @@ html {
 
 header{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .headerNameTitle{
@@ -28,4 +28,5 @@ header{
 
 .headerLinks{
     display: flex;
+    justify-content: right;
 }
