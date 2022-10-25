@@ -399,3 +399,8 @@ a{
     text-decoration: none;
     margin: 2px;
 }
+
+main {
+    padding-left: 20px;
+    padding-right: 20px;
+}
