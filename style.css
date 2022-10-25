@@ -363,7 +363,7 @@ html {
     background-image: url(../personalWebsite/images/brooklyn-MO5qO9xpZhA-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 html {
@@ -373,9 +373,8 @@ html {
 header{
     display: flex;
     justify-content: space-between;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-bottom: 2px solid bisque;
 }
 
