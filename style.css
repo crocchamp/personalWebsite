@@ -378,6 +378,7 @@ header{
     border-bottom: 2px solid bisque;
     align-items: center;
     backdrop-filter:blur(3px);
+position:sticky;
 }
 
 .headerNameTitle{
